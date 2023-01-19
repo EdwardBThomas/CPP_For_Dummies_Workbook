@@ -33,3 +33,4 @@ int main()
 	cout << "Ink Level: " << FavoritePen.InkLevelPercent << "%" << endl;
 	return 0;
 }
+//when will this dark season of life end?
